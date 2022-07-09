@@ -1,0 +1,3 @@
+/Users/caoqiancheng/javaspace/springboot-learn/task3/demo2/kafka-spring-producer/src/main/java/kafka/ProducerApplication.java
+/Users/caoqiancheng/javaspace/springboot-learn/task3/demo2/kafka-spring-producer/src/main/java/kafka/bindings/KafkaOutput.java
+/Users/caoqiancheng/javaspace/springboot-learn/task3/demo2/kafka-spring-producer/src/main/java/kafka/controller/SendMessageController.java
